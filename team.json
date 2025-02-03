@@ -1,0 +1,44 @@
+{
+  {
+    "name":"Member 1",
+    "role":"Leader",
+    "url":"https://raw.githubusercontent.com/bitspaceorg/ass-ets/main/hoomans/jesus.jpg",
+    "instagram":"instagram.com/member1",
+    "linkedin":"linkedin.com/member1"
+  },
+  {
+    "name":"Member 2",
+    "role":"Founder",
+    "url":"https://raw.githubusercontent.com/bitspaceorg/ass-ets/main/hoomans/jesus.jpg",
+    "instagram":"instagram.com/member2",
+    "linkedin":"linkedin.com/member2"
+  },
+  {
+    "name":"Member 3",
+    "role":"Co-Founder",
+    "url":"https://raw.githubusercontent.com/bitspaceorg/ass-ets/main/hoomans/jesus.jpg",
+    "instagram":"instagram.com/member3",
+    "linkedin":"linkedin.com/member3"
+  },
+  {
+    "name":"Member 4",
+    "role":"Producer",
+    "url":"https://raw.githubusercontent.com/bitspaceorg/ass-ets/main/hoomans/jesus.jpg",
+    "instagram":"instagram.com/member4",
+    "linkedin":"linkedin.com/member4"
+  },
+  {
+    "name":"Member 5",
+    "role":"Director",
+    "url":"https://raw.githubusercontent.com/bitspaceorg/ass-ets/main/hoomans/jesus.jpg",
+    "instagram":"instagram.com/member5",
+    "linkedin":"linkedin.com/member5"
+  },
+  {
+    "name":"Member 6",
+    "role":"Actor",
+    "url":"https://raw.githubusercontent.com/bitspaceorg/ass-ets/main/hoomans/jesus.jpg",
+    "instagram":"instagram.com/member6",
+    "linkedin":"linkedin.com/member6"
+  }
+}
